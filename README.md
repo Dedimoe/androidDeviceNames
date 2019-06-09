@@ -4,9 +4,6 @@ Librari kecil untuk mengambil nama pasar dari perangkat android. Banyak perangka
 1. Source:
 https://github.com/jaredrummler/AndroidDeviceNames
 
-A small Android library to get the market name of an Android device.
-
-On many popular devices the market name of the device is not available. For example, on the Samsung Galaxy S7 the value of Build.MODEL could be "SAMSUNG-SM-G930A", "SM-G930F", "SM-G930K", "SM-G930L", etc.
 
 This small library gets the market (consumer friendly) name of a device.
 
