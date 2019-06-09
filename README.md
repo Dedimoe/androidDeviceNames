@@ -1,4 +1,5 @@
 # Android Device Names
+Librari kecil untuk mengambil nama pasar dari perangkat android. Banyak perangkat yg populer, nama pasarnya tidak tersedia, sebagai contoh Samsung Galaxy S7, nilai dari Build.MODEL-nya adalah "SAMSUNG-SM-G930A", "SM-G930K", "SM-G930L", dll.
 
 1. Source:
 https://github.com/jaredrummler/AndroidDeviceNames
